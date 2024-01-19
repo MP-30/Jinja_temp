@@ -1,0 +1,8 @@
+{# templates/good.txt #}
+Hello {{name}},
+
+My name is {{ test_name }}. You
+achieve {{score}} out of {{ max_score }} points!
+
+See you tomorrow,
+Ms. Aditya
